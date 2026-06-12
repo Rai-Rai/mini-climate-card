@@ -11,6 +11,7 @@ Please ⭐️ this repo if you find it useful
   <img alt="card preview" src="https://raw.githubusercontent.com/artem-sedykh/mini-climate-card/master/images/preview.png" />
 </p>
 
+
 ## Notice
 v2 is only compatible from version 2022.11 onwards 
 
